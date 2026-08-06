@@ -1,0 +1,20 @@
+Task 4 - Insights and Interpretation Report
+
+Core  Observations 
+-> There is no book which is out of stock on the website 
+-> Many book titles also contain their descriptions 
+-> The dataset is clean too much , no zero or missing values 
+-> smallest book category low price books_scraper
+-> No paragraph break in any book intro.
+
+--------------------------------------------------------------
+
+Price is not related to ratings 
+Science fiction is most represented and historical books are the most expensive ones 
+Best value books are the ones with more than 4 stars and cost around or below 22 pound range
+
+-----------------------------------------------------------------
+
+LIMITATIONS 
+Datasite  is practically made for scraping data so it lacks the natural touch of organic sites
+IT doesnot show the real time pricing 

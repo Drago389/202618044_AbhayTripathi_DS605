@@ -1,0 +1,1 @@
+scrapy crawl books_scraper -o raw_books.csv
